@@ -2,7 +2,7 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 Nombre: Henry Romero        
 Materia: Fundamentos de Circuitos Electricos NRC:10063-202251  
-Fecha de Entrega: 16/01/2023
+Fecha de Entrega: 06/02/2023
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ Fecha de Entrega: 16/01/2023
 **1.OBJETIVO GENERAL**
 
 
-Desarrollar los ejercicios correspondientes a las unidades 11 y 12 pertenecientes al libro de trabajo de circuitos electricos con las tematicas de capacitores de manera teorica y practica
+Desarrollar los ejercicios correspondientes a las unidades 13 y 14 pertenecientes al libro de trabajo de circuitos electricos con las tematicas de capacitores de manera teorica y practica
 
 **1.2 OBJETIVOS ESPECIFICOS**
 -Describir la construcción y las características básicas de un capacitor tipos de capacitores ya sea capacitores en serie- paralelo Analizar circuitos de cd con capacitores conmutados 
