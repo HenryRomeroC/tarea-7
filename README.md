@@ -239,9 +239,11 @@ Vmid=L(di/dt)=0.1(200)=20mv
 **5.CONCLUSIONES**
 
 
-a) Observar el comportamiento de la ondas senoidales esto puede ayudar a tener una nocion obteniendo graficas estadisticas fisica en el comportamiento de un circuito analizado.
+---Varios de los componetes como son las bobinas o inductores son de autoinducción y decampomagnética
 
-b) Tras la visualización capitulo 12 existieron nuevos componentes como el funcionamiento de los capacitores o sus partes haciendo de una suma utilidad de para que sirven y como pueden mejor en nuestros circuitos.
+---Varios de los inductores son una de las partes importantes en la utilización de circuitos ya que estos son utlizados fundamentalmete en motores, rotores y demás.
+
+----Gracias a lo inductores podemos ver principalmente que ocupan una funcionamiento mutua.
 
 -------------------------------------------------------------------------------------------------------
 **6.BIBLIOGRAFÍA**
