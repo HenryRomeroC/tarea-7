@@ -9,13 +9,17 @@ Fecha de Entrega: 06/02/2023
 
 **1.OBJETIVO GENERAL**
 
+Determinar los conceptos alrededor de los inductores y bobinas que se encuentran enm el campo de la electronica como componentes de corriente DC que permiten la emicion y almacenamiento de corriente para transmitir pulsacines o crear campos electricos que desarrollan en si mismos la electronica moderna.
 
-Desarrollar los ejercicios correspondientes a las unidades 13 y 14 pertenecientes al libro de trabajo de circuitos electricos con las tematicas de capacitores de manera teorica y practica
 
 **1.2 OBJETIVOS ESPECIFICOS**
--Describir la construcción y las características básicas de un capacitor tipos de capacitores ya sea capacitores en serie- paralelo Analizar circuitos de cd con capacitores conmutados 
 
--  Analizar circuitos de ca capacitivos examinar algunas aplicaciones de los capacitores estudiar la operación de circuitos conmutados por un capacitor.
+- Rescatar partes importantes de cada uno de los temas formando un esquema analitico fácil de comprender.
+
+- Obtener informacion a travez de mapas y lluvias de ideas
+
+- Determinar el funcionamiento y comprender dicho funcionamiento de transformadores de circuitos.
+
 
 
 
@@ -32,17 +36,6 @@ Desarrollar los ejercicios correspondientes a las unidades 13 y 14 perteneciente
    
 
 
-
-
-
-
-
-
-
-
-
-
-
 --------------------------------------------------
 
 **3.RESOLUCIÓN DE LOS EJERCICIOS**
@@ -50,7 +43,55 @@ Desarrollar los ejercicios correspondientes a las unidades 13 y 14 perteneciente
 
 
             * CAPITULO 13*
-            
+  
+  
+ 1. Convierta los siguientes valores en milihenries:
+
+a= 1x100=1000 mh
+
+b=250/1000=0.25mh
+
+c=10/1000=0.01mh
+
+d=0.005h*1000=0.5mh
+
+3.¿Cuál es el voltaje en una bobina cuando di/dt=10 mA/ms y L= 5 mH?
+
+![image](https://user-images.githubusercontent.com/116819100/217093876-370c0a3c-bf12-4f60-8d70-54949131645b.png)
+
+
+
+5.La corriente a través de una bobina de 100 mH cambia a razón de 200 mA/s. ¿Cuánto voltaje se induce en la bobina?
+
+100mh/1000=0.1h
+
+Vmid=L(di/dt)=0.1(200)=20mv        
+
+![image](https://user-images.githubusercontent.com/116819100/217093912-49a73f66-5b6a-4890-9b18-d17b20f27890.png)
+
+
+
+7.¿Qué cantidad de energía se guarda en un inductor de 4.7 mH cuando la corriente es de 20 mA?
+
+¿Qué cantidad de energía se guarda en un inductor de 4.7 mH cuando la corriente es de 20 mA?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
